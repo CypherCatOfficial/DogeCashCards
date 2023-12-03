@@ -1,0 +1,29 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-12-03T22:09:30.072Z",
+  "registryIdentity": {
+    "name": "bcmr for DogeCash Cards",
+    "description": "self-published bcmr for DogeCash Cards"
+  },
+  "identities": {
+    "6a705c3dc2b7bdab681436fc486d851201a8887c35e44f137cbf8226d8cbda21": {
+      "2023-12-03T22:09:30.072Z": {
+        "name": "DogeCash Cards",
+        "description": "25% of revenue fuels BURNS 🔥 / Collectible art cards / Entered to win giveaways & airdrops",
+        "token": {
+          "category": "6a705c3dc2b7bdab681436fc486d851201a8887c35e44f137cbf8226d8cbda21",
+          "symbol": "DOGECASHCARDS"
+        },
+        "uris": {
+          "icon": "",
+          "web": "https://dogecash.uwu.ai/#cards"
+        }
+      }
+    }
+  }
+}
